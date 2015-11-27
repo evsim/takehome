@@ -1,4 +1,0 @@
-.//backup/takehome/index.html
-.//backup/takehome/index1.html
-.//git/takehome/index.html
-.//git/takehome/index1.html
